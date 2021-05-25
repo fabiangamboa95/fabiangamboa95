@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabián Gamboa
 - 👀 I’m interested in Software Engeneering (mostly frontend)
 - 🌱 I’m always developing competitiveness and keeping up with frontend development(leveling up all day long)
-- 💞️ I’m looking to collaborating with you on innovative an usefull proyects and will be honored to transfer my knoledge and experience to the
+- 💞️ I’m looking to collaborating with you on innovative an usefull proyects and will be honored to transfer my knowledge and experience to the
 team in order to reach our goals.
 - 📫 How to reach me: mail-> fabiangamboa95@gmail.com
 
