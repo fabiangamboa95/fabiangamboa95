@@ -12,3 +12,4 @@ team in order to reach our goals.
 fabiangamboa95/fabiangamboa95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Im gonna be expanding my CV here i think its a good place.
