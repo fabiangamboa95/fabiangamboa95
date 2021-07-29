@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a full-stack developer/entrepreneur who loves prototyping solutions and user experiences that intuitively maps real world stuff.
-- 👀 I’m mostly interested in Software Engineering, UX, SaaS, crypto and systems.
+- 👀 I’m mostly interested in Software Engineering, UX, SaaS, crypto, systems, microservices and B2B.
 - 🌱 I’m always developing competitiveness and keeping up with full-stack development(leveling up all day long)
 - 💞️ I’m looking to collaborating with you on innovative an useful projects and will be honored to transfer my knowledge and experience to the
 team in order to reach our goals.
