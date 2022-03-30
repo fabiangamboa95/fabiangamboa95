@@ -16,3 +16,6 @@ fabiangamboa95/fabiangamboa95 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ### Im gonna be expanding my CV here i think its a good place.
+- San Cristobal (consulting) -> September 2019 - May 2021 | Projects: Enterprise Web Page, Habana Colonial App, Online Sales: Tours, Hotels, Transportation
+- Movelab (fullstack dev)    -> September 2021 - December 2021 | Project: Workmart
+- Cencosud X (fullstack dev)  -> January 2022 - Present | Projects: Pactolus, Hermus, Tmolus, CV projects
