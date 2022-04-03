@@ -6,7 +6,7 @@
 
 ### Technical skills
 - Main Languages -> Typescript, Javascript, Python, HTML5, CSS
-- Main Frameworks / Libraries -> Nodejs, React, NextJs, Redux, Material-UI, Chakra, Tailwindcss, KoaJs, ExpressJs, FeathersJs, REST, GraphQL, Amplify
+- Main Frameworks / Libraries -> Nodejs, React, NextJs, Redux, Material-UI, Chakra, Antd, Tailwindcss, NestJs, KoaJs, ExpressJs, FeathersJs, REST, GraphQL, Amplify
 - #Full-Stack #Frontend #Backend #Services #Blockchain #Crypto #NodeJs #React #Koa #Express #Startups #Computer Vision
 <!--- 
   Remember to put here my portfolio(at least 4 open source projects) and other stuff like personal page
