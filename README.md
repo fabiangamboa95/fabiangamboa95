@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a full-stack web developer/engineer who loves prototyping solutions and user experiences that intuitively maps and inprove real world stuff.
+- 👋 Hi, I’m a senior full-stack developer/engineer who loves prototyping solutions and user experiences that intuitively maps and inprove real world stuff.
 - 👀 I’m mostly interested in Software Engineering, Startups, UX, SaaS, Computer Vision, crypto, blockchain, systems, microservices, cloud, E-Commerce and B2B.
-- 🌱 I’m always developing competitiveness and keeping up with full-stack development(leveling up all day long)
+- 🌱 I’m always developing competitiveness and keeping up with the development(leveling up all day long)
 - 💞️ I’m looking to collaborating with you on innovative an useful projects and will be honored to transfer my knowledge and experience to the team in order to reach our goals.
 - 📫 How to reach me: mail-> fabiangamboa95@gmail.com
 
