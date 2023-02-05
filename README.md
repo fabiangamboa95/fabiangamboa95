@@ -5,7 +5,7 @@
 - 📫 How to reach me: mail-> fabiangamboa95@gmail.com
 
 ### Technical skills
-- Main Languages -> Typescript, Javascript, Python, HTML5, CSS
+- Main Languages -> Typescript, Rust, Go
 - Main Frameworks / Libraries -> Nodejs, React, NextJs, Redux, Material-UI, Chakra, Antd, Tailwindcss, NestJs, KoaJs, ExpressJs, FeathersJs, REST, GraphQL, Amplify
 - #Full-Stack #Frontend #Backend #Services #Blockchain #Crypto #NodeJs #React #Koa #Express #Startups #Computer Vision
 <!--- 
