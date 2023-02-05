@@ -6,6 +6,7 @@
 
 ### Technical skills
 - Main Languages -> Typescript, Rust, Go
+- Main Skills -> Fullstack, Frontend, Backend, Mobile, Software Design, Design Patterns, Functional Programming, DDD, Stratified Design, Architectural Design, Onion Architecture, SOLID, OOP, Algorithms Design, Systems Design.
 - Main Frameworks / Libraries -> Nodejs, React, NextJs, Redux, Material-UI, Chakra, Antd, Tailwindcss, NestJs, KoaJs, ExpressJs, FeathersJs, REST, GraphQL, Amplify
 - #Full-Stack #Frontend #Backend #Services #Blockchain #Crypto #NodeJs #React #Koa #Express #Startups #Computer Vision
 <!--- 
@@ -18,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 ### Im gonna be expanding my CV here i think its a good place.
 - San Cristobal (consulting) -> September 2019 - May 2021 | Projects: Enterprise Web Page, Habana Colonial App, Online Sales: Tours, Hotels, Transportation
 - Movelab (fullstack dev)    -> September 2021 - December 2021 | Project: Workmart
-- Cencosud X (senior fullstack dev)  -> January 2022 - Present | Projects: Pactolus, Hermus, Tmolus, CV projects, Line-breaker, Credit Notes
+- Cencosud X (senior fullstack dev)  -> January 2022 - Present | Projects: Pactolus, Hermus, Tmolus, CV projects, Line-breaker, Credit Notes, Pactolus Regional
