@@ -10,7 +10,6 @@
 - Main Frameworks / Libraries -> Nodejs, React, NextJs, Zustand, Tailwindcss, Antd, NestJs, KoaJs, ExpressJs, REST, GraphQL, tRPC, React Native, Ionic ... among others ...
 - #Full-Stack #Frontend #Backend #Services #Blockchain #Crypto #NodeJs #React #Koa #Express #Startups #Computer Vision
 
---->
 ### Im gonna be expanding my CV here i think its a good place.
 - University of Havana ( Computer Science ) -> September 2014 - June 2018
 - San Cristobal (consulting) -> September 2019 - May 2021 | Projects: Enterprise Web Page, Habana Colonial App, Online Sales: Tours, Hotels, Transportation
