@@ -5,8 +5,8 @@
 - 📫 How to reach me: mail-> fabiangamboa95@gmail.com
 
 ### Technical skills
-- Main Languages -> Typescript, Rust, Go
-- Main Skills -> Fullstack, Frontend, Backend, Mobile, Software Design, Design Patterns, Functional Programming, DDD, Stratified Design, Clean Code, Architectural Design, Onion Architecture, SOLID, OOP, Algorithms Design, Systems Design.
+- Main Languages -> Typescript, Rust, Go ... among others ...
+- Main Skills -> Fullstack, Frontend, Backend, Mobile, Software Design, Design Patterns, Functional Programming, DDD, Stratified Design, Clean Code, Architectural Design, Onion Architecture, SOLID, OOP, Algorithms Design, Systems Design ... among others ...
 - Main Frameworks / Libraries -> Nodejs, React, NextJs, Zustand, Tailwindcss, Antd, NestJs, KoaJs, ExpressJs, REST, GraphQL, tRPC, React Native, Ionic ... among others ...
 - #Full-Stack #Frontend #Backend #Services #Blockchain #Crypto #NodeJs #React #Koa #Express #Startups #Computer Vision
 
